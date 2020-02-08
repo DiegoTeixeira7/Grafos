@@ -1,2 +1,2 @@
 # Grafos
-Execícios resolvidos sobre Grafos (Virtual Judge)
+Exercícios resolvidos sobre Grafos (Virtual Judge)
