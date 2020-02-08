@@ -1,2 +1,2 @@
-# Grafos por Diego Teixeira
+# Grafos
 Execícios resolvidos sobre Grafos (Virtual Judge)
